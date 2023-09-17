@@ -1,24 +1,21 @@
-# SET09102 portfolio
+# Kyle's SET09102 Portfolio
 
-This repository provide a starting template for your SET09102 portfolio.
+Welcome to my SET09102 portfolio! Here you'll find a compilation of projects, assignments, and experiences that I've undertaken during my time at Edinburgh Napier University - Merchiston. Each section provides a snapshot into my skills, problem-solving capabilities, and my journey in the world of software engineering.
 
-Most of the initial content should be removed before submission and replaced with your
-own. The initial content is only there to provide guidelines and suggestions for you.
-
-Please remember that you should think about your portfolio as something that you could
-show to a potential employer in the future. Consider what that kind of reader needs from
-you in terms of presentation. It will be a good idea, for example, to start each portfolio
-entry with a brief introduction because the reader may not be aware of the context.
+I've designed this portfolio with potential employers in mind. Therefore, each entry will begin with a concise introduction to give readers an understanding of the context and significance of the work showcased.
 
 ## Contents
 
-1. [Setup](week2_setup.md)
-2. [Workflow](week3_workflow.md)
-3. [Code review](week4_code_review.md)
-4. [Documentation](week5_documentation.md)
-5. [Testing](week6_testing.md)
-6. [Team project 1](week8_project.md)
-7. [Team project 2](week9_project.md)
-8. [Team project 3](week10_project.md)
-9. [Requirements analysis](week11_requirements.md)
-10. [Requirements implementation](week12_implementation.md)
+    1.0 [Personal Introduction](README.md) - A brief background about me, my passions, and my goals.
+    2.0 [Setup](week2_setup.md) - Information about the tools, technologies, and environments I've worked with.
+    3.0 [Workflow](week3_workflow.md) - A dive into my approach to managing projects, from conceptualization to deployment.
+    4.0 [Code review](week4_code_review.md) - Insights into my coding practices, standards, and the feedback I've received.
+    5.0 [Documentation](week5_documentation.md) - Samples of how I document my work, ensuring maintainability and clarity.
+    6.0 [Testing](week6_testing.md) - A showcase of my commitment to delivering robust and reliable code.
+    7.0 [Team project 1](week8_project.md) - An exploration into our first team project, detailing my role and our collaborative achievements.
+    8.0 [Team project 2](week9_project.md) - Diving deeper into another team project, showcasing our challenges and successes.
+    9.0 [Team project 3](week10_project.md) - Further insights into our collaborative efforts and outcomes on our third team venture.
+    10.0 [Requirements analysis](week11_requirements.md) - My approach to understanding and dissecting project requirements.
+    11.0 [Requirements implementation](week12_implementation.md) - How I've taken project needs from paper to reality.
+
+Please explore and feel free to reach out to me with any questions or opportunities. Your feedback is highly valued!
