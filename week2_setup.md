@@ -30,9 +30,9 @@ Next on the agenda was to identify who would create the shared team repository.
 This was left to the two most experienced team members who had previously completed the 
 prerequisities to achieve this, including the methods module in the previous year.
 
-| ![GitHub Team Repository](https://github.com/mmakarmit/Software-Engineering-Portfolio/blob/main/images/week1ss2.png) 
+| ![GitHub Team Repository](images/week1ss2.png "This image represents the team shared repository") 
 ||:--:|| 
-<b>Fig.2 - Team Repository</b>|
+|<b>Fig.2 - Team Repository</b>|
 
 
 
