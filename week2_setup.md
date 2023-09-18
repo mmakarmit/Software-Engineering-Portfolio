@@ -70,7 +70,7 @@ project with integrated task board.
 Please see all of the above come to fruition in the below Fig.2.
 
 |![GitHub Team Project](images/week1ss3.png "This image represents the team project with integrated task board") 
-||:--:|| 
+|:--:|
 |<b>Fig.2 - Team Project Task Board</b>|
 
 ## 3.0 Configuring Visual Studio
@@ -84,7 +84,7 @@ at a later date. As I did not have this installed I searched for the .NET Multi-
 Development within Visual Sutdio and installed it. You can see this below in Fig.3.
 
 |![.NET MAUI Install](images/week1ss1.png "This image represents the .NET MAUI template installation") 
-||:--:|| 
+|:--:|
 |<b>Fig.3 - Team Project Task Board</b>|
 
 ## 4.0 Cloning the Shared Repository
@@ -98,7 +98,7 @@ one way to clone the template for my own personal repository. My personal opinio
 easy as each other. Below is some screenshots and instructions for how I did this:
 
 |![Clone Repository with URL](images/week1ss4.png "This image represents how to clone a repository with the URL") 
-||:--:|| 
+|:--:|
 |<b>Fig.4 - Clone Repository with URL</b>|
 
 To clone the repository as in Fig.4:
@@ -108,7 +108,7 @@ To clone the repository as in Fig.4:
 * Click Clone button.
 
 |![Clone Repository with Account](images/week1ss5.png "This image represents how to clone a repository with your GitHub account") 
-||:--:|| 
+|:--:|
 |<b>Fig.5 - Clone Repository with Account</b>|
 
 To clone the repository as in Fig.5:
