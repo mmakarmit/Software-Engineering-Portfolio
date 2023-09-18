@@ -34,7 +34,7 @@ Next on the agenda was to identify who would create the shared team repository.
 This was left to the two most experienced team members who had previously completed the 
 prerequisities to achieve this, including the methods module in the previous year.
 
-| ![GitHub Team Repository](images/week1ss2.png "This image represents the team shared repository") 
+|![GitHub Team Repository](images/week1ss2.png "This image represents the team shared repository") 
 ||:--:|| 
 |<b>Fig.1 - Team Repository</b>|
 
@@ -69,7 +69,7 @@ project with integrated task board.
 
 Please see all of the above come to fruition in the below Fig.2.
 
-| ![GitHub Team Project](images/week1ss3.png "This image represents the team project with integrated task board") 
+|![GitHub Team Project](images/week1ss3.png "This image represents the team project with integrated task board") 
 ||:--:|| 
 |<b>Fig.2 - Team Project Task Board</b>|
 
@@ -83,7 +83,7 @@ However, upon reading the project brief I realised there was a need for the .NET
 at a later date. As I did not have this installed I searched for the .NET Multi-Platform App UI
 Development within Visual Sutdio and installed it. You can see this below in Fig.3.
 
-| ![.NET MAUI Install](images/week1ss1.png "This image represents the .NET MAUI template installation") 
+|![.NET MAUI Install](images/week1ss1.png "This image represents the .NET MAUI template installation") 
 ||:--:|| 
 |<b>Fig.3 - Team Project Task Board</b>|
 
@@ -97,7 +97,7 @@ This can be done two ways inside Visual Studio and I used both. One way for my s
 one way to clone the template for my own personal repository. My personal opinion is both ways are as
 easy as each other. Below is some screenshots and instructions for how I did this:
 
-| ![Clone Repository with URL](images/week1ss4.png "This image represents how to clone a repository with the URL") 
+|![Clone Repository with URL](images/week1ss4.png "This image represents how to clone a repository with the URL") 
 ||:--:|| 
 |<b>Fig.4 - Clone Repository with URL</b>|
 
@@ -107,7 +107,7 @@ To clone the repository as in Fig.4:
 * Double check the file path is correct.
 * Click Clone button.
 
-| ![Clone Repository with Account](images/week1ss5.png "This image represents how to clone a repository with your GitHub account") 
+|![Clone Repository with Account](images/week1ss5.png "This image represents how to clone a repository with your GitHub account") 
 ||:--:|| 
 |<b>Fig.5 - Clone Repository with Account</b>|
 
