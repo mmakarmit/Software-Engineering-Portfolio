@@ -75,7 +75,7 @@ Please see all of the above come to fruition in the below Fig.2.
 
 ## 3.0 Configuring Visual Studio
 
-As I had used Visual Studio in previous years for a couple of small projects, I already had the program installed
+As I had used [Visual Studio](https://visualstudio.microsoft.com/) in previous years for a couple of small projects, I already had the program installed
 and did not therefore need to go through the process of installing it. This was a time saver as Visual
 Studio is quite a large piece of software if you choose to install a lot of the options available.
 
@@ -188,21 +188,21 @@ work adequately to complete the tasks. Below are but a few:
 
 <b>IDEs and Editors</b>
 
-* Visual Studio Code
-* Eclipse
-* IntelliJ
-* Atom
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Eclipse](https://www.eclipse.org/ide/)
+* [IntelliJ](https://www.jetbrains.com/idea/)
+* [Atom](https://github.com/atom)
 
 <b>Version Control Systems</b>
 
-* GitLab
-* BitBucket
-* Mercurial
-* Subversion
+* [GitLab](https://about.gitlab.com/free-trial/devsecops/?utm_medium=cpc&utm_source=google&utm_campaign=brand_emea_pr_rsa_br_exact_free-trial&utm_content=free-trial&_bt=654402617444&_bk=gitlab&_bm=e&_bn=g&_bg=75294586319&gclid=Cj0KCQjwx5qoBhDyARIsAPbMagBxj9L6eWWiW-8oDxvVff9Z7Wutzbiq_JHZitUepEnwqpn1uoebhDgaAnltEALw_wcB)
+* [BitBucket](https://bitbucket.org/product?&aceid=&adposition=&adgroup=146989416150&campaign=18815940676&creative=632894025969&device=c&keyword=bitbucket&matchtype=e&network=g&placement=&ds_kids=p74128754417&ds_e=GOOGLE&ds_eid=700000001551985&ds_e1=GOOGLE&gad=1&gclid=Cj0KCQjwx5qoBhDyARIsAPbMagCVXHo2J7wj3_Jyiz-PZYuGKzQCAJG6SjqYRsUG8k8da0xm4r1Ua1saAjkqEALw_wcB&gclsrc=aw.ds)
+* [Mercurial](https://www.mercurial-scm.org/)
+* [Subversion](https://subversion.apache.org/)
 
 <b>CI/CDs</b>
 
-* Jenkins
-* Travis CI
-* CircleCI
-* Bamboo
+* [Jenkins](https://www.jenkins.io/)
+* [Travis CI](https://www.travis-ci.com/)
+* [CircleCI](https://circleci.com/explore-jenkins-to-circleci/?utm_source=google&utm_medium=sem&utm_campaign=sem-google-dg--emea-en-jenkins-tROAS-auth-nb&utm_term=g_e-jenkins%20ci%20cd_c__rsa2_20210615&utm_content=sem-google-dg--emea-en-jenkins-tROAS-auth-nb_keyword-text_rsa-jenkins_exact-&gclid=Cj0KCQjwx5qoBhDyARIsAPbMagDgs8S7nrYIir5kAJN89UqNpnq7Jbc6hppBOqsF-GZ6E4Up1BTj02caAqodEALw_wcB)
+* [Bamboo](https://www.atlassian.com/software/bamboo)
