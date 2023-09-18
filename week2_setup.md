@@ -32,14 +32,14 @@ setup people needed help with due to inexperience and buddied them up with a per
 to rectify this. We also implemented a team discord server to make communication easier moving forward.
 Next on the agenda was to identify who would create the shared team repository.
 This was left to the two most experienced team members who had previously completed the 
-prerequisities to achieve this, including the methods module in the previous year.
+prerequisites to achieve this, including the methods module in the previous year.
 
 |![GitHub Team Repository](images/week1ss2.png "This image represents the team shared repository")|
 |:--:|
 |<b>Fig.1 - Team Repository</b>|
 
 In Fig.1 it demonstrates the main page of our shared team repository for the group project which shows our team
-name, the Green-Team, and all other relelvant information to our team. Fig.1 also shows our first post
+name, the Green-Team, and all other relevant information to our team. Fig.1 also shows our first post
 which outlines to the team the task at hand and the details for the team Discord channel for easy communication.
 From here I can proceed to anywhere, like the project board for example.
 
@@ -50,7 +50,7 @@ below:
 
 * Go to [GitHub](https://github.com) and login to your account.
 * Create a new repository.
-* Name the repository appropiately with the project context in mind.
+* Name the repository appropriately with the project context in mind.
 * Set the appropriate permission level. If only team members should have access then set to private.
 * Initialise the repository by implementing a README file.
 
@@ -81,7 +81,7 @@ Studio is quite a large piece of software if you choose to install a lot of the 
 
 However, upon reading the project brief I realised there was a need for the .NET MAUI template for use
 at a later date. As I did not have this installed I searched for the .NET Multi-Platform App UI
-Development within Visual Sutdio and installed it. You can see this below in Fig.3.
+Development within Visual Studio and installed it. You can see this below in Fig.3.
 
 |![.NET MAUI Install](images/week1ss1.png "This image represents the .NET MAUI template installation") 
 |:--:|
@@ -123,7 +123,7 @@ To clone the repository as in Fig.5:
 
 ## Initial Challenges and Difficulties
 
-Setting up my working environment came with a steep learning curve and provided me with a plehtora of challenges.
+Setting up my working environment came with a steep learning curve and provided me with a plethora of challenges.
 This was mainly due to the fact that I was not familiar with many of the tools that I am required to use, and the
 one tool that I have used before, Visual Studio, I am not very comfortable with. Integrating Visual Studio with
 GitHub was something that I was previously completely unaware was even possible and carrying out this task involved
@@ -146,15 +146,15 @@ by getting assistance from my team members and spending time familiarising mysel
 
 I am using the [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/) which is the only free
 edition available to students. I would assume this will come with a certain level of limitations over the other more
-expansive editions, however, I do not forsee this being an issue with this project. Moreover, I am using the free
+expansive editions, however, I do not foresee this being an issue with this project. Moreover, I am using the free
 version of GitHub which I assume will also have limitations over the paid for service. Again, I don't see this being
 an issue with this particular project.
 
 GitHub has limitations on file uploads and repository sizes. This even holds true on the paid for versions of the 
-service. If the project progresses to be large, or maybe contain large datatsets, then we could potentially run into
+service. If the project progresses to be large, or maybe contain large datasets, then we could potentially run into
 these size limitations and have to find alternative storage solutions.
 
-As the team are working from a shared repository there is a possibility for merge conflicts to occurr if two or more
+As the team are working from a shared repository there is a possibility for merge conflicts to occur if two or more
 people happen to edit the same file simultaneously.
 
 There is a lot of potential for error with the limitations of the teams individual and group abilities. There is a
@@ -175,7 +175,7 @@ requests, discussions, and issues help to facilitate excellent communication and
 
 Although tasks can be completed on GitHub itself, the integration aspect of Visual Studio with GitHub allows for 
 a lot of tasks to completed from the IDE and pushed to GitHub. This is ideal for developers, especially ones who are
-extremely comfortable with this particlar IDE.
+extremely comfortable with this particular IDE.
 
 The way this configuration is built allows for excellent scalability and accessibility. Both tools can handle very
 complex builds, like builds with multiple solutions and repositories. Moreover, as GitHub is cloud based it is
