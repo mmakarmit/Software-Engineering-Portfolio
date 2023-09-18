@@ -35,7 +35,7 @@ This was left to the two most experienced team members who had previously comple
 prerequisities to achieve this, including the methods module in the previous year.
 
 |![GitHub Team Repository](images/week1ss2.png "This image represents the team shared repository")|
-||:--:|| 
+|:--:|
 |<b>Fig.1 - Team Repository</b>|
 
 In Fig.1 it demonstrates the main page of our shared team repository for the group project which shows our team
